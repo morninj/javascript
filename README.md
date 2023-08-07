@@ -1305,7 +1305,7 @@ Other Style Guides
   <a name="modules--use-them"></a><a name="10.1"></a>
   - [10.1](#modules--use-them) Always use modules (`import`/`export`) over a non-standard module system. You can always transpile to your preferred module system.
 
-    > Why? Modules are the future, let’s start using the future now.
+    > Why? Modules are the future. Let’s start using the future now.
 
     ```javascript
     // bad
